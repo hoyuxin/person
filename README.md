@@ -9,7 +9,7 @@
 
   - Mobile: 0983-342-992
 
-  <hr>
+  <hr style="color:red;">
 
 ### 技能
 
