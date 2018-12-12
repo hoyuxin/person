@@ -26,7 +26,7 @@
 
 ### 作品
 
- - personal-works: https://reurl.cc/EZLzg
+ - Brunch & Fun ( 複合式餐飲&桌遊活動 ): https://reurl.cc/EZLzg
  
      1.使用 HTML5 + CSS 完成RWD頁面架構和布局<br/><br/>
      2.使用 jQuery插件 () 製作網頁輪播特效<br/><br/>
@@ -35,7 +35,7 @@
 
 <br/><br/>
 
-  - 果然配: https://reurl.cc/524Yq
+  - 果然配(客製果汁、瓶身圖案): https://reurl.cc/524Yq
 
      1.使用原生 Javascript 語法，進行 DOM 的操作，並撰寫動畫<br/><br/>
      2.後台使用 PHP 與 MySQL 語法對資料庫進行新增、修改、刪除<br/><br/>
