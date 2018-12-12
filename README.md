@@ -35,7 +35,7 @@
 
 <br/><br/>
 
-  - 果然配: http://140.115.236.72/demo-projects/CD103/CD103G4/
+  - 果然配: https://reurl.cc/524Yq
 
      1.使用原生 Javascript 語法，進行 DOM 的操作，並撰寫動畫<br/><br/>
      2.後台使用 PHP 與 MySQL 語法對資料庫進行新增、修改、刪除<br/><br/>
