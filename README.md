@@ -9,7 +9,7 @@
 
   - Mobile: 0983-342-992
 
-  <hr style="color:red;">
+  <hr>
 
 ### 技能
 
@@ -26,7 +26,8 @@
 
 ### 作品
 
- - personal-works: 
+ - personal-works: https://reurl.cc/EZLzg
+ 
      1.使用 HTML5 + CSS 完成RWD頁面架構和布局<br/><br/>
      2.使用 jQuery插件 () 製作網頁輪播特效<br/><br/>
      3.使用 Jquery / CSS3 製作網頁動態效果<br/><br/>
