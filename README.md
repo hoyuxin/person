@@ -26,7 +26,7 @@
 
 ### 作品
 
- - Brunch & Fun ( 複合式餐飲&桌遊活動 ): https://reurl.cc/EZLzg
+ - Brunch & Fun ( 複合式餐飲&桌遊活動 ): https://hoyuxin.github.io/Brunch-Fun/
  
      1.使用 HTML5 + CSS 完成RWD頁面架構和布局<br/><br/>
      2.使用 jQuery插件 () 製作網頁輪播特效<br/><br/>
