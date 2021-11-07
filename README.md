@@ -3,7 +3,7 @@
 
   - Education: 龍華科技大學 / 電子工程系
 
-  - Location: 桃園市新屋區
+  - Location: 台北市中山區
 
   - E-mail: d1004323008@gmail.com
 
@@ -12,17 +12,16 @@
   <hr>
 
 ### 技能
-
+  - 使用Vue Cli搭建專案
   - HTML5 + CSS 完成RWD頁面架構和佈局
   - CSS3 呈現網頁動態效果
-  - 熟悉 Javascript、JQuery語法，能進行 DOM 的操作，並撰寫動畫
-  - 使用 PHP 與 MySQL 對資料庫進行操作  
+  - 熟悉 Javascript、JQuery
   - 利用 AJAX 進行資料傳輸
   - Bootstrap 開發響應式網頁
   - 熟悉 Git 基本指令與運用
   - 能夠解析JSON資料格式並處理
+  - 使用 PHP 與 MySQL 對資料庫進行操作  
   <hr>
-
 
 ### 作品
 
@@ -35,7 +34,7 @@
 
 <br/><br/>
 
-  - 果然配(客製果汁、瓶身圖案): https://reurl.cc/524Yq
+  - 果然配(客製果汁、瓶身圖案) ---連結已失效
 
      1.使用原生 Javascript 語法，進行 DOM 的操作，並撰寫動畫<br/><br/>
      2.後台使用 PHP 與 MySQL 語法對資料庫進行新增、修改、刪除<br/><br/>
